@@ -1,0 +1,69 @@
+id;nome;cpf;seringal;colocacao;id_associacao;id_microrregiao;long;lat
+1;Ana Maria Silva De Almeida;859.575.002-59;Centenário;Uruapiara;21;83;-6.3574;-62.02296
+2;Adonai Ferreira Reis;925.004.632-49;Centenário;Uruapiara;21;83;-6.635114;-62.202107
+3;Antonio Nunes Teixeira;018.378.912-14;Floresta ;Uruapiara;21;83;-6.639479;-62.203411
+4;Adamor Viana Reis;735.535.062-53;Centenário;Uruapiara;21;83;-6.634848;-62.201862
+5;Bartolomeu Pinto Da Silva;893.525.992-68;Santa Maria;Uruapiara;21;83;-6.630108;-61.194014
+6;Benedito Caxias Teixeira Dos Santos;637.202.482-91;Centenário;Uruapiara;21;83;-6.635740;-62.202296
+7;Benedito Fernandes Nascimento;002.662.282-32;Santo Antônio;Uruapiara;21;83;-6.633729;-61.198106
+8;Benedito Flaminho Nogueira Lagos;734.727.352-87;Santo Antônio;Uruapiara;21;83;-6.634008;-61.198755
+9;Benedito Passos Ferraz;828.653.612-68;Santa Maria;Uruapiara;21;83;-6.630658;-61.195052
+10;Bosco Lagos Gervasio;021.535.812-06;São Raimundo;Rio Madeira;21;83;-6.612297;-61.149709
+11;Claudio Lopes Ferraz;031.496.752-43;Santa Maria;Uruapiara;21;83;-6.630009;-61.193968
+12;Domingo Paulo Teixeira De Castro;926.896.392-20;Santa Maria;Uruapiara;21;83;-6.630767;-61.195309
+13;Edival Da Silva Almeida;965.780.332-20;Santo Antonio;Uruapiara;21;83;-6.633849;-61.198481
+14;Édson Teixeira De Castro;001.915.012-12;Santa Maria;Uruapiara;21;83;-6.630692;-61.195362
+15;Denilson Gonçalves Nogueira;038.452.102-90;São Pedro;Uruapiara;21;83;-6.633553;-61.197142
+16;Elino Julião Morais Fonseca;877.159.372-15;Centenário;Uruapiara;21;83;-6.634204;-62.201032
+17;Felipe Lago Gervasio;704.818.002-12;São Raimundo;Rio Madeira;21;83;-6.612297;-61.149709
+18;Francisco Do Socorro Fernandes Pinto;926.891.402-68;Cristo Rei;Uruapiara;21;83;-6.632495;-61.196699
+19;Francisco Gonçalves Nogueira;290.940.202-97;São Pedro;Uruapiara;21;83;-6.633553;-61.197142
+20;Francisco Maciel Da Silva;519.706.942-20;Santa Maria;Uruapiara;21;83;-6.630476;-61.195196
+21;Gildoaudo De Castro Maciel;009.303.122-01;Santa Cívita;Uruapiara;21;83;-6.636029;-62.204283
+22;Herminio Do Nascimento Rodrigues;146.426.622-00;Cristo Rei;Uruapiara;21;83;-6.632358;-61.196557
+23;Isaque Silva De Almeida;693.451.982-53;Santo Antonio;Uruapiara;21;83;-6.633769;-61.198186
+24;Ircirlei Trindade Pinheiro;023.800.942-41;Floresta;Uruapiara;21;83;-6.637934;-62.202723
+25;Izamil Da Silva Teixeira;901.416.522-68;Floresta;Uruapiara;21;83;-6.640420;-62.203883
+26;Januario Pinto Da Trindade;113.226.912-15;Santa Cívita;Uruapiara;21;83;-6.635823;-62.205005
+27;Jaris Da Silva;007.522.672-30;Centenário;Uruapiara;21;83;-6.634346;-62.201189
+28;Josenil Morais Vinhork;001.994.012-25;Floresta;Uruapiara;21;83;-6.639259;-62.203070
+29;Joseli Lopes Ferraz;005.237.602-80;Santa Maria;Uruapiara;21;83;-6.630240;-61.194429
+30;João Faianca Da Silva;799.956.672-15;São Raimundo;Rio Madeira;21;83;-6.612570;-61.149738
+31;João Irlei Lobato Dos Santos;630.710.532-15;Santa Cívita;Uruapiara;21;83;-6.636249;-62.205542
+32;João De Brito Prestes;122.981.312-87;Centenário;Uruapiara;21;83;-6.634192;-62.201014
+33;José Do Rozário Dos Santos;230.973.452-72;Santa Cívita;Uruapiara;21;83;-6.636071;-62.204154
+34;José Laiola Ferraz;849.470.042-15;Santa Maria;Uruapiara;21;83;-6.630453;-61.195040
+35;Jucilene Reis;006.292.152-51;Floresta;Uruapiara;21;83;-6.638660;-62.202933
+36;Lauro José De Souza Ferraz;886.046.402-15;Santa Maria;Uruapiara;21;83;-6.630447;-61.194930
+37;Lauro Pinto Dos Santos;009.809.902-70;Santa Maria;Uruapiara;21;83;-6.630399;-61.194703
+38;Leônidas Rodrigues Teixeira;886.046.242-87;Floresta;Uruapiara;21;83;-6.640212;-62.203651
+39;Luiz Lagos Gervasio;028.062.062-43;São Raimundo;Rio Madeira;21;83;-6.612297;-61.149709
+40;Luiz Reis;001.993.992-20;Floresta;Uruapiara;21;83;-6.638785;-62.202985
+41;Luiz Bosco Gervasio Torres;866.225.282-68;S.Raimundo;Distr.Auxiliadora;21;83;-6.612297;-61.149709
+42;Manoel Aldo Lobato Dos Santos;901.568.462-68;Santa  Cívita;Uruapiara;21;83;-6.636016;-62.204455
+43;Manoel Gonçalves Nogueira;921.003.922-04;São Pedro;Uruapiara;21;83;-6.634163;-62.201030
+44;Manuel Adalto Marquis Da Fonseca;754.817.822-00;Centenário;Uruapiara;21;83;-6.633964;-62.200070
+45;Manuel Marques Ferraz;842.183.982-91;Santa Maria;Uruapiara;21;83;-6.630214;-61.194397
+46;Maria De Fatima Trindade Pinto;036.184.892-77;São Pedro;Uruapiara;21;83;-6.633592;-61.197662
+47;Manoel Aparicido Gonçalves Nogueira;020.128.812-54;São Pedro;Uruapiara;21;83;-6.633297;-61.197034
+48;Manuel Aparicio Da Silva Almeida;003.742.412-28;Centenário;Uruapiara;21;83;-6.634002;-62.200165
+49;Manuel Maximo Fernandes Do Nascimento;012.089.052-60;São Pedro;Uruapiara;21;83;-6.633534;-61.197367
+50;Maria Cleia Dos Santos Neves;865.821.432.04;Centenário;Uruapiara;21;83;-6.635114;-62.202107
+51;Maria Deuza Morais Viana;000.828.172-60;Centenário;Uruapiara;21;83;-6.634956;-62.201946
+52;Mazinio Santos Da Silva;008.003.692-97;Centenário;Uruapiara;21;83;-6.634527;-62.201397
+53;Nelson Dantas Campos;926.890.942-15;Santa Fé;Rio Madeira;21;83;-6.612689;-61.149753
+54;Orildo Nunes Pinto;626.380.092-53;Santa Cívita;Uruapiara;21;83;-6.635839;-62.204818
+55;Pedro Leão Da Silva;021.535.792-28;Centenário;Uruapiara;21;83;-6.634527;-62.201397
+56;Pedro Sonil Teixeira Nunes;721.410.422-91;Santa Cívita;Uruapiara;21;83;-6.635724;-62.205215
+57;Pedro Viana Reis;011.673.902-96;Centenário;Uruapiara;21;83;-6.634990;-62.201997
+58;Raimundo Queiroz Dos Santos;925.004.982-04;Auxiliadora;Distr. Auxiliadora;21;83;-6.634165;-62.201042
+59;Raimundo Vieira Passos Neto;002.415.182-37;Centenário;Uruapiara;21;83;-6.634164;-62.201040
+60;Rozimarina Teixeira Sodré;941.955.442-20;Centenário;Uruapiara;21;83;-6.634366;-62.201205
+61;Robson Nascimento Passos;004-473-032-28;Centenário;Uruapiara;21;83;-6.634164;-62.201040
+62;Rozeani Neves Gonçalves;910.421.272-04;São Pedro;Uruapiara;21;83;-6.632954;-61.196921
+63;Santino De Souza Nogueira;713.006.942-20;Santo Antonio;Uruapiara;21;83;-6.633905;-61.198534
+64;Sidinei De Castro Texeira;006.495.632-63;Santa Maria;Uruapiara;21;83;-6.631011;-61.195442
+65;Tomé Nunes De Almeida;693.229.022-72;Centenário;Uruapiara;21;83;-6.634346;-62.201189
+66;Valerio Ferreira Reis;007.705.852-64;Centenário;Uruapiara;21;83;-6.634956;-62.201946
+67;Valdileno Da Silva Almeida;007.522.652-96;Centenário;Uruapiara;21;83;-6.633849;-61.198481
+68;Inacio Guimaraes Sodre;030.840.382-79;Santa Maria;Uruapiara;21;83;-6.631048;-61.195500
